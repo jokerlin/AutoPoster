@@ -1,0 +1,9 @@
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\bin\Debug\自动发帖器.exe.config
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\bin\Debug\自动发帖器.exe
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\bin\Debug\自动发帖器.pdb
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\obj\Debug\自动发帖器.csprojResolveAssemblyReference.cache
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\obj\Debug\自动发帖器.Properties.Resources.resources
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\obj\Debug\自动发帖器.csproj.GenerateResource.Cache
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\obj\Debug\自动发帖器.exe
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\obj\Debug\自动发帖器.pdb
+C:\Users\Henry Lin\Documents\自动发帖器\自动发帖器\自动发帖器\obj\Debug\自动发帖器.自动发帖器.resources
